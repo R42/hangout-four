@@ -1,7 +1,7 @@
 R42 hangout IV
 =============
 
-## Public repository for the Third R42 Hangout
+## Public repository for the R42 Hangout IV
 
 
 ### Compass
