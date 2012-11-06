@@ -1,14 +1,24 @@
-R42 hangout IV
-=============
+Monitoring using Munin and Monit
+================================
 
-## Public repository for the R42 Hangout IV
+All commands below are executed in the Amazon Linux AMI instance.
 
+## Munin
 
-### Compass
+### Configuring Munin
 
-1. Each topic presented is placed on your own branch
+### View Munin Graphs over Http
 
+## Monit
 
-### License
+### Install Monit 
 
-It depends on the contents of the stuff being commited. Please adjust for this specific Hangout.
+### Configuring Monit
+
+### View monit over Http
+
+## Other Topics
+
+### Port Knocking
+### Netcat
+### SSH Tunneling
